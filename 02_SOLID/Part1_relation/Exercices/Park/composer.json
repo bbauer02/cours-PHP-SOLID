@@ -1,0 +1,14 @@
+{
+    "name": "antoine/park",
+    "license": "MIT",
+    "authors": [{
+        "name": "Antoine07",
+        "email": "antoine.lucsko@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Park\\": "src/"
+        }
+    }
+}

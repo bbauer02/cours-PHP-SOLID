@@ -1,0 +1,16 @@
+{
+    "name": "baptiste/parking",
+    "description": "Correction de l'exercice de synth\u0000se",
+    "autoload": {
+        "psr-4": {
+            "Parking\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bbauer02",
+            "email": "bbauer02@gmail.com"
+        }
+    ],
+    "require": {}
+}
